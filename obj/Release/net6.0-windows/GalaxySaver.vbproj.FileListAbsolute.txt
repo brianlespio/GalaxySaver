@@ -1,0 +1,4 @@
+C:\Users\Pandora\Documents\GitHub\GalaxySaver\obj\Release\net6.0-windows\GalaxySaver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pandora\Documents\GitHub\GalaxySaver\obj\Release\net6.0-windows\GalaxySaver.AssemblyInfoInputs.cache
+C:\Users\Pandora\Documents\GitHub\GalaxySaver\obj\Release\net6.0-windows\GalaxySaver.AssemblyInfo.vb
+C:\Users\Pandora\Documents\GitHub\GalaxySaver\obj\Release\net6.0-windows\GalaxySaver.vbproj.CoreCompileInputs.cache
